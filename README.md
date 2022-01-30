@@ -1,5 +1,5 @@
 Hola 👋 ,
-Mi nombre es Juan Carlos, vivo en España, soy un chico autodidacta y colaborativo, tengo conocimientos en diferentes tecnologías web.
+Mi nombre es Juan Carlos, vivo en España, soy un chico autodidacta y colaborativo, estudiante de DAW en el instituto Virgen de la Paz, tengo conocimientos en diferentes tecnologías web.
 
 Aprendiendo NodeJS...
 
