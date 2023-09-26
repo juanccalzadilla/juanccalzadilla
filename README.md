@@ -1,7 +1,7 @@
 Hola 👋 ,
-Mi nombre es Juan Carlos, vivo en España, soy un chico autodidacta y colaborativo, soy desarrollador fullstack en <a href="https://etnyka.com" target="blank">Etnyka Labs</a>.
+Mi nombre es Juan Carlos, vivo en España, soy desarrollador fullstack en <a href="https://telynet.com" target="blank">Telynet SA</a>.
 
-Aprendiendo Flutter...
+PHP, Laravel, Flutter.
 
 Puedes contactarme en:
 <ul> 
