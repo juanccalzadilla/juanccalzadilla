@@ -1,5 +1,5 @@
 Hola 👋 ,
-Mi nombre es Juan Carlos, vivo en España, soy desarrollador fullstack en <a href="https://ahorramas.com" target="blank">AHORRAMAS SA</a>.
+Mi nombre es Juan Carlos, vivo en España, soy Flutter Developer en <a href="https://ahorramas.com" target="blank">AHORRAMAS SA</a>.
 
 PHP, Laravel, Flutter.
 
